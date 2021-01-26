@@ -29,4 +29,4 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had some minor difficulty in installing the Pod and getting it to work correctly in Xcode. I was able to resolve it by utilizing the "Fix" feature's suggestions. I also struggled with AutoLayout, specifically understanding the errors about positioning. I came to realize that it is not only important to give constraints based on position, but that some components would also require constraints for width or height in order for the layout to work.
