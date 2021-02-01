@@ -16,12 +16,17 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/SdCl6wNYNH.gif" width=250><br>
+<img src="http://g.recordit.co/SdCl6wNYNH.gif" width=250>
+<img src="http://g.recordit.co/city9Y6mgB.gif" width=500><br>
+<img src="http://g.recordit.co/qyl5tGoi18.gif" width=250>
+<img src="http://g.recordit.co/MuWLdCBrmd.gif" width=250><br>
+
+
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had some minor difficulty in installing the Pod and getting it to work correctly in Xcode. I was able to resolve it by utilizing the "Fix" feature's suggestions. I also struggled with AutoLayout, specifically understanding the errors about positioning. I came to realize that it is not only important to give constraints based on position, but that some components would also require constraints for width or height in order for the layout to work.
