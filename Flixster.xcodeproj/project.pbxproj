@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E95D78B25C84BEB00E0B6A4 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E95D78A25C84BEB00E0B6A4 /* MovieDetailsViewController.swift */; };
 		5EA23AF125BF409300E20472 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA23AF025BF409300E20472 /* AppDelegate.swift */; };
 		5EA23AF325BF409300E20472 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA23AF225BF409300E20472 /* SceneDelegate.swift */; };
 		5EA23AF825BF409300E20472 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EA23AF625BF409300E20472 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		4EA4981FCF74EFDEC3B08B35 /* Pods-Flixster.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flixster.debug.xcconfig"; path = "Target Support Files/Pods-Flixster/Pods-Flixster.debug.xcconfig"; sourceTree = "<group>"; };
+		5E95D78A25C84BEB00E0B6A4 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		5EA23AED25BF409300E20472 /* Flixster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flixster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EA23AF025BF409300E20472 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5EA23AF225BF409300E20472 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				5EA23AFB25BF409400E20472 /* LaunchScreen.storyboard */,
 				5EA23AFE25BF409400E20472 /* Info.plist */,
 				5EA23B0A25BF54A500E20472 /* MovieCell.swift */,
+				5E95D78A25C84BEB00E0B6A4 /* MovieDetailsViewController.swift */,
 			);
 			path = Flixster;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E95D78B25C84BEB00E0B6A4 /* MovieDetailsViewController.swift in Sources */,
 				5EA23AF125BF409300E20472 /* AppDelegate.swift in Sources */,
 				5EA23AF325BF409300E20472 /* SceneDelegate.swift in Sources */,
 				5EA23B0B25BF54A500E20472 /* MovieCell.swift in Sources */,
