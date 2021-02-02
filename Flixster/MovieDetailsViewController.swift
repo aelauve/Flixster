@@ -38,6 +38,7 @@ class MovieDetailsViewController: UIViewController {
         let backdropURL = URL(string: "https://image.tmdb.org/t/p/w780" + backdropPath)!
         
         backdropView.af_setImage(withURL: backdropURL)
+        print(titleLabel.text)
     }
     
     
