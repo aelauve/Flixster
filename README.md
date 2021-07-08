@@ -34,14 +34,14 @@ I spent a large amount of time trying to apply constraints to the details page. 
 
 #### BONUS
 - [x] (2pt) User can view the app on various device sizes and orientations.
-- [x] (1pt) Run your app on a real device.
+- [] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
 <img src="http://g.recordit.co/SdCl6wNYNH.gif" width=250>
 <img src="http://g.recordit.co/city9Y6mgB.gif" width=500><br>
 <img src="http://g.recordit.co/qyl5tGoi18.gif" width=250>
-<img src="http://g.recordit.co/MuWLdCBrmd.gif" width=250><br>
+
 
 
 
