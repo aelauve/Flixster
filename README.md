@@ -1,5 +1,7 @@
 # Flixster
 
+<iframe src="https://giphy.com/embed/sEbjwMYCuJqJdGJ6Du" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sEbjwMYCuJqJdGJ6Du">via GIPHY</a></p>
+
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flixster Part 2
